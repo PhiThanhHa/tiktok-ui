@@ -4,7 +4,7 @@ import styles from "./Button.module.scss"
 const cx = classNames.bind(styles)
 
 function Button() {
-    return (  );
+    return ;
 }
 
 export default Button;
