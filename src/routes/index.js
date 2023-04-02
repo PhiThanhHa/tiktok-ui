@@ -16,6 +16,7 @@ const publicRoutes = [
     {path : '/profile', component : Profile},
     {path : '/search', component : Search, layout : null},
     {path : '/upload', component : Upload, layout : HeaderOnly},
+    // {path : '/upload', component : Upload, layout : HeaderOnly},
 ]
 
 const privateRoutes = [
